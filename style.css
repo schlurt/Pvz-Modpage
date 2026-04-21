@@ -11,6 +11,10 @@ a{
  width: 240ox;
 }
 
+table{
+ border: 2px solod black
+}
+
 td{
  text-align: center
 }
