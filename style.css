@@ -16,5 +16,6 @@ table{
 }
 
 td{
- text-align: center
+ text-align: center;
+ border: 2px solid black
 }
