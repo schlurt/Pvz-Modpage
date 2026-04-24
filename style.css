@@ -6,6 +6,13 @@ a{
   text-decoration: none;
 }
 
+.pfp{
+ height: 35px;
+ width: 35px;
+ border: 3px solid springgreen;
+ border-radius: 35px
+}
+
 .thumb{
  height: 135px;
  width: 240px;
