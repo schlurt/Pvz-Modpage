@@ -24,6 +24,11 @@ table{
  margin: auto;
 }
 
+table.zalmanac{
+ border: 2px solid black;
+ background-color: #6a788f;
+ margin: auto;
+
 td{
  text-align: center;
  border: 2px solid black;
