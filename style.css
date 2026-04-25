@@ -28,3 +28,7 @@ td{
  text-align: center;
  border: 2px solid black;
 }
+
+p, h1{
+  font-family: Arial, Helvetica, sans-serif;
+}
